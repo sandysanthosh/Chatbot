@@ -126,6 +126,11 @@ open source project:
 ### Run a Program:
 
        run -> chat.java ->check in console
+
+
+Run as jar:
+
+              Java -jar chat.jar
        
        
                
