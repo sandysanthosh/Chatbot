@@ -9,9 +9,9 @@ the typical cost of customer service.
 
 ## # AIML: 
 
-   * ARITIFICAL INTELLIGENCE MACHINE LANGUAGE
-   * xml based markup language human interface
-   * aliebot what is chat-bot
+         * ARITIFICAL INTELLIGENCE MACHINE LANGUAGE
+         * xml based markup language human interface
+         * aliebot what is chat-bot
 
 #### A.L.I.C.E:
 
@@ -137,8 +137,7 @@ Run as jar:
               Java -jar chat.jar
        
        
-               
-<a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
+       
 
 
 
