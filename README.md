@@ -1,25 +1,28 @@
-# chat
+#### why chatbot?
 
-Refer:
+```
+Chatbot applications streamline interactions between people and services, enhancing customer experience. At the same time,
+they offer companies new opportunities to improve the customers engagement process and operational efficiency by reducing 
+the typical cost of customer service.
 
-https://howtodoinjava.com/ai/java-aiml-chatbot-example/
+```
 
-## AIML: 
+## # AIML: 
 
-   ARITIFICAL INTELLIGENCE MACHINE LANGUAGE
-   xml based markup language human interface
-    aliebot what is chat-bot
+   * ARITIFICAL INTELLIGENCE MACHINE LANGUAGE
+   * xml based markup language human interface
+   * aliebot what is chat-bot
 
-A.L.I.C.E
+#### A.L.I.C.E:
 
-            simple to program
-            easy to understand
-            highly maintable
+          *  simple to program
+          *  easy to understand
+          *  highly maintable
       
 
-### Create a Folder LIB
+### Create a Folder LIB:
 
-          add AB.jar
+            - add AB.jar
           
 ### create a folder Src/main/  -> resources -> add Bots Folder
           
